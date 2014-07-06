@@ -1,10 +1,10 @@
 A sample wpa_supplicant configuration file for eduroam.
 
-(See also eduroam.org.)
+(See also <www.eduroam.org>.)
 
 Last confirmed to work at:
 
-Stanford University, Palo Alto, USA: May 2014.
-Copenhagen University, North Campus (DIKU), Copenhagen, Denmark: July 2014.
-Den Sorte Diamant, Copenhagen, Denmark: July 2014.
-ITU, Copenhagen, Denmark: July 2014.
+* DIKU, Copenhagen, Denmark: July 2014.
+* Den Sorte Diamant, Copenhagen, Denmark: July 2014.
+* ITU, Copenhagen, Denmark: July 2014.
+* Stanford University, Palo Alto, USA: May 2014.
