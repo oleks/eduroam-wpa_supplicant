@@ -1,7 +1,7 @@
 A sample wpa_supplicant configuration file for eduroam
 ======================================================
 
-To use, change identity and passwordito your eduroam account.
+To use, change identity and password to your eduroam account.
 
 Note, the sample identity is a hint for UCPH students ;)
 
