@@ -3,14 +3,26 @@ A sample wpa_supplicant configuration file for eduroam
 
 To use, change identity and password to your eduroam account.
 
-Note, the sample identity is a hint for UCPH students ;)
+Quick and dirty start-up:
+
+$ sudo wpa_supplicant -Diwlwifi -iwlp3s0 -c supplicant.conf
+
+  Where iwlwifi is the kernel driver stated for your wireless card. You can
+  find this using lspci. (wext often works as well, but is deprecated.)
+
+  $ lspci -k
+
+  And wlp3s0 is the network interface name for your wireless card. You can find
+  this using ip.
+
+  $ ip link
 
 (See also www.eduroam.org )
 
 Last confirmed to work at:
 
+* DIKU, Copenhagen, Denmark: October 2015.
 * Oxford, United Kingdom: July 2015.
-* DIKU, Copenhagen, Denmark: July 2015.
 * Den Sorte Diamant, Copenhagen, Denmark: July 2015.
 * ITU, Copenhagen, Denmark: May 2015.
 * Stanford University, Palo Alto, USA: May 2014.
