@@ -17,7 +17,7 @@ $ sudo wpa_supplicant -Diwlwifi -iwlp3s0 -c supplicant.conf
 
   $ ip link
 
-  Optionally, use the -B to move the process to background.
+  Optionally, use the -B to move the wpa_supplicant process to background.
 
   Additionaly, start up dhcpcd if it doesn't start automatically.
 
