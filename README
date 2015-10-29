@@ -7,13 +7,14 @@ Quick and dirty start-up:
 
 $ sudo wpa_supplicant -Diwlwifi -iwlp3s0 -c supplicant.conf
 
-  Where iwlwifi is the kernel driver stated for your wireless card. You can
-  find this using lspci. (wext often works as well, but is deprecated.)
+  Where iwlwifi is the kernel driver stated for your wireless card. (wext is a
+  derprecated driver that often works as well.) You can find your standard
+  driver using lspci:
 
   $ lspci -k
 
   And wlp3s0 is the network interface name for your wireless card. You can find
-  this using ip.
+  this using ip link:
 
   $ ip link
 
