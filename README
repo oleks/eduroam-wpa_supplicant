@@ -13,7 +13,7 @@ $ sudo wpa_supplicant -Diwlwifi -iwlp3s0 -c supplicant.conf
 
   $ lspci -k
 
-  And wlp3s0 is the network interface name for your wireless card. You can find
+  wlp3s0 is the network interface name for your wireless card. You can find
   this using ip link:
 
   $ ip link
