@@ -26,6 +26,7 @@ $ sudo wpa_supplicant -Diwlwifi -iwlp3s0 -c supplicant.conf
 
 Last confirmed to work at:
 
+* University of Oregon, Eugene, USA: June 2016.
 * DIKU, Copenhagen, Denmark: June 2016.
 * Oxford, United Kingdom: July 2015.
 * Den Sorte Diamant, Copenhagen, Denmark: July 2015.
