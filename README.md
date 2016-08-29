@@ -30,7 +30,7 @@ $  echo -n "hamster" | iconv -t utf16le | openssl md4
 variable](https://www.gnu.org/software/bash/manual/html_node/Bash-Variables.html#index-HISTCONTROL)
 for keeping commands out of your `~/.bash_history`.)
 
-## Quick and Dirty start-Up
+## Quick and dirty start-up
 
 If you prefer to roll without a network manager, here is the quick and dirty
 way to run `wpa_supplicant` with this config:
