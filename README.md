@@ -54,6 +54,8 @@ this using `ip link`:
 $ ip link
 ~~~
 
-Optionally, use the `-B` option to move the `wpa_supplicant` process to background.
+Optionally, use the `-B` option to move the `wpa_supplicant` process to
+background. Leaving it out, however, provides you with useful insights if you
+otherwise cannot connect.
 
 Additionally, start up `dhcpcd` if it doesn't start automatically.
