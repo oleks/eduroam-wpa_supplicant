@@ -15,9 +15,20 @@ After some time wrestling with [eduroam](www.eduroam.org), I seem to have found
 
 ## Usage
 
-See [supplicant.conf](supplicant.conf).
+1. See [supplicant.conf](supplicant.conf).
+2. Change identity and password hash to match your eduroam account.
 
-Change identity and password hash to match your eduroam account.
+The password hash needs to be an md4 hash of the little-endian UTF16 encoding
+of your password. For instance, if your password is `hamster`, you can hash it
+as follows:
+
+~~~
+$  echo -n "hamster" | iconv -t utf16le | openssl md4
+~~~
+
+(See also [the `HISTCONTROL` bash
+variable](https://www.gnu.org/software/bash/manual/html_node/Bash-Variables.html#index-HISTCONTROL)
+for keeping commands out of your `~/.bash_history`.)
 
 ## Quick and Dirty start-Up
 
