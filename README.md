@@ -1,7 +1,7 @@
 # Sample wpa_supplicant configuration for eduroam
 
 After some time wrestling with [eduroam](www.eduroam.org), I seem to have found
-this `wpa_supplicant` configuration to be rather robust.
+[this `wpa_supplicant` configuration](supplicant.conf) to be rather robust.
 
 ## Last confirmed to work at
 
