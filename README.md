@@ -17,7 +17,7 @@ this `wpa_supplicant` configuration to be rather robust.
 
 See [supplicant.conf](supplicant.conf).
 
-Change identity and password to your eduroam account.
+Change identity and password hash to match your eduroam account.
 
 ## Quick and Dirty start-Up
 
