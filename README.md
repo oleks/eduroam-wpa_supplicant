@@ -5,9 +5,9 @@ After some time wrestling with [eduroam](www.eduroam.org), I seem to have found
 
 ## Last confirmed to work at
 
-* DIKU, Copenhagen, Denmark: August 2016.
+* Den Sorte Diamant, Copenhagen, Denmark: September 2016.
+* DIKU, Copenhagen, Denmark: September 2016.
 * DTU, Lyngby, Denmark: August 2016.
-* Den Sorte Diamant, Copenhagen, Denmark: August 2016.
 * Stanford University, Palo Alto, USA: June 2016.
 * University of Oregon, Eugene, USA: June 2016.
 * Oxford, United Kingdom: July 2015.
