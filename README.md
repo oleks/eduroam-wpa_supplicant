@@ -5,8 +5,10 @@ After some time wrestling with [eduroam](www.eduroam.org), I seem to have found
 
 ## Last confirmed to work at
 
+* Malmö Airport, Sweden: July 2017.
+* DIKU, Copenhagen, Denmark: July 2017.
 * University of Budapest, Hungary: May 2017.
-* DIKU, Copenhagen, Denmark: May 2017.
+* Oslo Airport, Norway: April 2017.
 * Sapienza, University of Rome, Italy: November 2016.
 * RISC Institute, Pond Building, Hagenberg, Austria: September 2016.
 * Den Sorte Diamant, Copenhagen, Denmark: September 2016.
