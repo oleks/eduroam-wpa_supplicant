@@ -28,10 +28,11 @@ but honest documentation). Some institutions do offer raw `wpa_supplicant`
 documentation, but do so in an ad-hoc fashion (i.e., without any guarantee that
 the configuration will work at another institution).
 
-This is an attempt at establishing such a unified source. For now however, this
-is just an undocumented [`wpa_supplicant` configuration](supplicant.conf) that
-seems to work rather well across a number of institutions. Lend a hand, and
-document it, or just let me know if this configuration also works for you.
+This is an attempt to establish a unified source `wpa_supplicant`
+configuration, that works across the board. For now however, this is just an
+undocumented [`wpa_supplicant` configuration](supplicant.conf) that seems to
+work rather well across a number of institutions. Lend a hand, and document it,
+or just let me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
