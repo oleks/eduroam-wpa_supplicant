@@ -9,7 +9,7 @@ available to the education and research community by many educational
 institutions around the world. It was designed so that you as a student or
 researcher have to exert minimal effort to connect to a secure wireless
 network, no matter which educational institution you happen to be at that day.
-This encourages educational exchange and scientific collaboration around the
+This encourages educational exchange, and scientific collaboration around the
 world. ([This video](https://www.youtube.com/watch?v=TVCmcMZS3uA) also explains
 eduroam via cartoons!)
 
