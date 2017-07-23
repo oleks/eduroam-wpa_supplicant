@@ -18,7 +18,8 @@ eduroam using cartoons!)
 (i.e., the tool that can make sure your wireless connection is secure). Most
 Linux-based networking managers use `wpa_supplicant` behind the scenes. Of
 course, `wpa_supplicant` has a command-line interface, and it is fairly
-straight-forward to exert grand control over your configuration.
+straight-forward to exert grand control over your configuration. (There are no
+cartoons about `wpa_supplicant` ☹.)
 
 To this end, it is a shame that [the generic eduroam web-site](www.eduroam.org)
 seemingly (i.e., correct me if I'm wrong) offers no documentation on how to set
