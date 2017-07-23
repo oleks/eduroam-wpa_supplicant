@@ -1,7 +1,38 @@
 # Sample wpa_supplicant configuration for eduroam
 
-After some time wrestling with [eduroam](www.eduroam.org), I seem to have found
-[this `wpa_supplicant` configuration](supplicant.conf) to be rather robust.
+TLDR; After some time wrestling with [eduroam](www.eduroam.org), I seem to have
+found [this `wpa_supplicant` configuration](supplicant.conf) to be rather
+robust.
+
+[Eduroam](https://www.eduroam.org) is a secure, wireless access service made
+available to the education and research community by many educational
+institutions around the world. It was designed so that you as a student or
+researcher have to exert minimal effort to connect to a secure wireless
+network, no matter which educational institution you happen to be at that day.
+This encourages educational exchange and scientific collaboration around the
+world. ([This video](https://www.youtube.com/watch?v=TVCmcMZS3uA) also explains
+eduroam via cartoons!)
+
+[`wpa_supplicant`](https://linux.die.net/man/8/wpa_supplicant) is a generic
+[``IEEE 802.1X
+supplicant''](https://en.wikipedia.org/wiki/Supplicant_(computer)) (i.e., the
+tool that can make sure your wireless connection is secure). Most Linux-based
+networking managers use `wpa_supplicant` behind the scenes. Of course,
+`wpa_supplicant` has a command-line interface, and it is fairly
+straight-forward to exert grand control over your configuration.
+
+To this end, it is a shame that [the generic eduroam web-site](www.eduroam.org)
+seemingly offers no documentation on how to set up your `wpa_supplicant`. (But
+correct me if I'm wrong!) Instead, they offer installers to end-users,
+including a shell-script for Linux users (which you could regard as primitive,
+but honest documentation). Some institutions do offer raw `wpa_supplicant`
+documentation, but in an ad-hoc fashion (i.e., without any guarantee that the
+configuration will work at another institution).
+
+This is an attempt at establishing such a unified source. For now however, this
+is just an undocumented [`wpa_supplicant` configuration](supplicant.conf) that
+seems to work rather well across a number of institutions. Lend a hand, and
+document it, or just let me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
