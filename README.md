@@ -14,11 +14,10 @@ world. ([This video](https://www.youtube.com/watch?v=TVCmcMZS3uA) also explains
 eduroam via cartoons!)
 
 [`wpa_supplicant`](https://linux.die.net/man/8/wpa_supplicant) is a generic
-[``IEEE 802.1X
-supplicant''](https://en.wikipedia.org/wiki/Supplicant_(computer)) (i.e., the
-tool that can make sure your wireless connection is secure). Most Linux-based
-networking managers use `wpa_supplicant` behind the scenes. Of course,
-`wpa_supplicant` has a command-line interface, and it is fairly
+["IEEE 802.1X supplicant"](https://en.wikipedia.org/wiki/Supplicant_(computer))
+(i.e., the tool that can make sure your wireless connection is secure). Most
+Linux-based networking managers use `wpa_supplicant` behind the scenes. Of
+course, `wpa_supplicant` has a command-line interface, and it is fairly
 straight-forward to exert grand control over your configuration.
 
 To this end, it is a shame that [the generic eduroam web-site](www.eduroam.org)
