@@ -21,12 +21,12 @@ course, `wpa_supplicant` has a command-line interface, and it is fairly
 straight-forward to exert grand control over your configuration.
 
 To this end, it is a shame that [the generic eduroam web-site](www.eduroam.org)
-seemingly offers no documentation on how to set up your `wpa_supplicant`. (But
-correct me if I'm wrong!) Instead, they offer installers to end-users,
-including a shell-script for Linux users (which you could regard as primitive,
+seemingly (i.e., correct me if I'm wrong) offers no documentation on how to set
+up your `wpa_supplicant`. Instead, they offer installers to end-users,
+including a shell-script for Linux users (which could be regarded as primitive,
 but honest documentation). Some institutions do offer raw `wpa_supplicant`
-documentation, but in an ad-hoc fashion (i.e., without any guarantee that the
-configuration will work at another institution).
+documentation, but do so in an ad-hoc fashion (i.e., without any guarantee that
+the configuration will work at another institution).
 
 This is an attempt at establishing such a unified source. For now however, this
 is just an undocumented [`wpa_supplicant` configuration](supplicant.conf) that
