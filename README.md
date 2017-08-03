@@ -1,8 +1,8 @@
 # Sample wpa_supplicant configuration for eduroam
 
-TLDR; After some time wrestling with [eduroam](www.eduroam.org), I seem to have
-found [this `wpa_supplicant` configuration](supplicant.conf) to be rather
-robust.
+TLDR; After some time wrestling with [eduroam](https://www.eduroam.org), I seem
+to have found [this `wpa_supplicant` configuration](supplicant.conf) to be
+rather robust.
 
 [Eduroam](https://www.eduroam.org) is a secure, wireless access service made
 available to the education and research community by many educational
@@ -21,13 +21,13 @@ course, `wpa_supplicant` has a command-line interface, and it is fairly
 straight-forward to exert grand control over your configuration. (There are no
 cartoons about `wpa_supplicant` ☹.)
 
-To this end, it is a shame that [the generic eduroam web-site](www.eduroam.org)
-seemingly (i.e., correct me if I'm wrong) offers no documentation on how to set
-up your `wpa_supplicant`. Instead, they offer installers to end-users,
-including a shell-script for Linux users (which could be regarded as primitive,
-but honest documentation). Some institutions do offer raw `wpa_supplicant`
-documentation, but do so in an ad-hoc fashion (i.e., without any guarantee that
-the configuration will work at another institution).
+To this end, it is a shame that [the generic eduroam
+web-site](https://www.eduroam.org) seemingly (i.e., correct me if I'm wrong)
+offers no documentation on how to set up your `wpa_supplicant`. Instead, they
+offer installers to end-users, including a shell-script for Linux users (which
+could be regarded as primitive, but honest documentation). Some institutions do
+offer raw `wpa_supplicant` documentation, but do so in an ad-hoc fashion (i.e.,
+without any guarantee that the configuration will work at another institution).
 
 This is an attempt to establish a unified `wpa_supplicant` configuration, that
 works across the board. For now however, this is just an undocumented
