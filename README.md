@@ -37,6 +37,7 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
+* University of California, Berkeley: August 2017
 * Malmö Airport, Sweden: July 2017.
 * DIKU, Copenhagen, Denmark: July 2017.
 * University of Budapest, Hungary: May 2017.
