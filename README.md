@@ -79,6 +79,13 @@ a pipeline like this instead:
 $  pass eduroam | tr -d '\n' | iconv -t utf16le | openssl md4
 ~~~
 
+Once you have the MD4 hash, write it into your configuration as
+follows:
+
+~~~
+  password=hash:2fd23a...456cef
+~~~
+
 ## Quick and dirty start-up
 
 If you prefer to roll without a network manager, here is the quick and dirty
