@@ -71,6 +71,14 @@ $  echo -n 'hamster' | iconv -t utf16le | openssl md4
 variable](https://www.gnu.org/software/bash/manual/html_node/Bash-Variables.html#index-HISTCONTROL)
 for keeping commands out of your `~/.bash_history`.)
 
+If you are using [`pass`](https://www.passwordstore.org/), or another
+password-manager with a command-line interface, you might consider
+a pipeline like this instead:
+
+~~~
+$  pass eduroam | tr -d '\n' | iconv -t utf16le | openssl md4
+~~~
+
 ## Quick and dirty start-up
 
 If you prefer to roll without a network manager, here is the quick and dirty
