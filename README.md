@@ -86,6 +86,10 @@ follows:
   password=hash:2fd23a...456cef
 ~~~
 
+*NB!* MD4 is [an _obsolete_ hashing
+algorithm](https://tools.ietf.org/html/rfc6150) and should not be
+considered secure.
+
 ## Quick and dirty start-up
 
 If you prefer to roll without a network manager, here is the quick and dirty
