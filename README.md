@@ -37,9 +37,10 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
+* IFI, Univeristy of Oslo, Norway: January 2018
+* DIKU, Copenhagen, Denmark: January 2018.
 * University of California, Berkeley, USA: August 2017
 * Malmö Airport, Sweden: July 2017.
-* DIKU, Copenhagen, Denmark: July 2017.
 * University of Budapest, Hungary: May 2017.
 * Oslo Airport, Norway: April 2017.
 * Sapienza, University of Rome, Italy: November 2016.
