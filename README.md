@@ -57,7 +57,7 @@ me know if this configuration also works for you.
 1. See [supplicant.conf](supplicant.conf).
 2. Change identity and password hash to match your eduroam account.
 
-The password hash needs to be an md4 hash of the little-endian UTF16 encoding
+The password hash needs to be an MD4 hash of the little-endian UTF16 encoding
 of your password. For instance, if your password is `hamster`, you can hash it
 as follows:
 
