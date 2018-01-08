@@ -86,7 +86,7 @@ follows:
   password=hash:2fd23a...456cef
 ~~~
 
-*NB!* MD4 is [an _obsolete_ hashing
+**NB!** MD4 is [an _obsolete_ hashing
 algorithm](https://tools.ietf.org/html/rfc6150) and should not be
 considered secure.
 
