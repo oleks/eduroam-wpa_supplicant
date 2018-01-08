@@ -62,8 +62,10 @@ of your password. For instance, if your password is `hamster`, you can hash it
 as follows:
 
 ~~~
-$  echo -n "hamster" | iconv -t utf16le | openssl md4
+$  echo -n 'hamster' | iconv -t utf16le | openssl md4
 ~~~
+
+(Note the use of single-quotes to avoid escaping in the shell.)
 
 (See also [the `HISTCONTROL` bash
 variable](https://www.gnu.org/software/bash/manual/html_node/Bash-Variables.html#index-HISTCONTROL)
