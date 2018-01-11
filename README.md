@@ -39,6 +39,7 @@ me know if this configuration also works for you.
 
 * Univeristy of Oslo, Norway: January 2018
 * University of Copenhagen, Denmark: January 2018.
+* California State University, Sacramento, USA: December 2017
 * University of California, Berkeley, USA: August 2017
 * Malmö Airport, Sweden: July 2017.
 * University of Budapest, Hungary: May 2017.
