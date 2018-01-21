@@ -57,7 +57,14 @@ me know if this configuration also works for you.
 ## Usage
 
 1. See [supplicant.conf](supplicant.conf).
-2. Change identity and password hash to match your eduroam account.
+2. Set `identity` to `abc123@ku.dk`, if your username is
+   `abc123`, and your home university domain is `ku.dk`.
+3. Similarly, set the `anonymous_identity` to either `anonymous@ku.dk`
+   or simply `@ku.dk`. Using an anonymous identity does not reveal your
+   identity to anyone but the home university — eduroam calls home to
+   verify you identity and password every time you login from another
+   location.
+4. Set the password hash to match your university password (see below).
 
 The password hash needs to be an MD4 hash of the little-endian UTF16 encoding
 of your password. For instance, if your password is `hamster`, you can hash it
