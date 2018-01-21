@@ -38,21 +38,37 @@ me know if this configuration also works for you.
 ## Last confirmed to work at
 
 * INSA Lyon, France: January 2018
+  ([@sfrenot](https://github.com/sfrenot))
 * Univeristy of Oslo, Norway: January 2018
+  ([@oleks](https://github.com/oleks))
 * University of Copenhagen, Denmark: January 2018.
+  ([@oleks](https://github.com/oleks))
 * California State University, Sacramento, USA: December 2017
+  ([@leaptthroughtime](https://github.com/leaptthroughtime))
 * University of California, Berkeley, USA: August 2017
+  ([@wizh](https://github.com/wizh))
 * Malmö Airport, Sweden: July 2017.
+  ([@oleks](https://github.com/oleks))
 * University of Budapest, Hungary: May 2017.
+  ([@oleks](https://github.com/oleks))
 * Oslo Airport, Norway: April 2017.
+  ([@oleks](https://github.com/oleks))
 * Sapienza, University of Rome, Italy: November 2016.
+  ([@Enrico204](https://github.com/Enrico204))
 * RISC Institute, Pond Building, Hagenberg, Austria: September 2016.
+  ([@oleks](https://github.com/oleks))
 * Den Sorte Diamant, Copenhagen, Denmark: September 2016.
+  ([@oleks](https://github.com/oleks))
 * DTU, Lyngby, Denmark: August 2016.
+  ([@oleks](https://github.com/oleks))
 * Stanford University, Palo Alto, USA: June 2016.
+  ([@oleks](https://github.com/oleks))
 * University of Oregon, Eugene, USA: June 2016.
+  ([@oleks](https://github.com/oleks))
 * Oxford, United Kingdom: July 2015.
+  ([@oleks](https://github.com/oleks))
 * ITU, Copenhagen, Denmark: May 2015.
+  ([@oleks](https://github.com/oleks))
 
 ## Usage
 
