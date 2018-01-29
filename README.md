@@ -1,8 +1,8 @@
 # Sample wpa_supplicant configuration for eduroam
 
-TLDR; After some time wrestling with [eduroam](https://www.eduroam.org), I seem
-to have found [this `wpa_supplicant` configuration](supplicant.conf) to be
-rather robust.
+TLDR; [This `wpa_supplicant` configuration](supplicant.conf) for
+[eduroam](https://www.eduroam.org) [seems to be rather
+robust](#last-confirmed-to-work-at).
 
 [Eduroam](https://www.eduroam.org) is a secure, wireless access service made
 available to the education and research community by many educational
