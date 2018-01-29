@@ -80,7 +80,7 @@ me know if this configuration also works for you.
 3. Similarly, set the `anonymous_identity` to either `anonymous@ku.dk`
    or simply `@ku.dk`. Using an anonymous identity does not reveal your
    identity to anyone but the home university — eduroam calls home to
-   verify you identity and password every time you login from another
+   verify your identity and password every time you login from another
    location.
 4. Set the password hash to match your university password (see below).
 
