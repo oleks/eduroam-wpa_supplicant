@@ -4,14 +4,15 @@ TLDR; [This `wpa_supplicant` configuration](supplicant.conf) for
 [eduroam](https://www.eduroam.org) [seems to be rather
 robust](#last-confirmed-to-work-at).
 
-[Eduroam](https://www.eduroam.org) is a secure, wireless access service made
-available to the education and research community by many educational
-institutions around the world. It was designed so that you as a student or
-researcher have to exert minimal effort to connect to a secure wireless
-network, no matter which educational institution you happen to be at that day.
-This encourages educational exchange, and scientific collaboration around the
-world. ([This video](https://www.youtube.com/watch?v=TVCmcMZS3uA) explains
-eduroam using cartoons!)
+[Eduroam](https://www.eduroam.org) is a secure, wireless access
+service made available to the education and research community by many
+educational institutions around the world. It was designed so that you
+as a student or researcher have to exert minimal effort to connect to
+a secure wireless network, no matter which educational institution you
+happen to visiting.  This encourages educational exchange, and
+scientific collaboration around the world. ([This
+video](https://www.youtube.com/watch?v=TVCmcMZS3uA) explains eduroam
+using cartoons!)
 
 [`wpa_supplicant`](https://linux.die.net/man/8/wpa_supplicant) is a generic
 ["IEEE 802.1X supplicant"](https://en.wikipedia.org/wiki/Supplicant_(computer))
