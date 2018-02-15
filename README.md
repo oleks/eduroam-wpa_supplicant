@@ -38,6 +38,8 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
+* University of Cambridge, United Kingdom: February 2018
+  ([@rspencer01](https://github.com/rspencer01))
 * University of Sheffield, United Kingdom: January 2018
   ([@ewnh](https://github.com/ewnh))
 * INSA Lyon, France: January 2018
