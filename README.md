@@ -136,13 +136,10 @@ $ sudo wpa_supplicant -Dnl80211 -iwlp3s0 -c supplicant.conf -B
 Where `nl80211` is the kernel driver to use.
 [`nl80211`](https://wireless.wiki.kernel.org/en/users/drivers/nl80211)
 is the new default 802.11 netlink interface, intended to replace the
-older `wext` (Wireless-Extensions).
-
-If you do not have `nl80211` lying around, you may try `wext`, but
-`wext` can fail with the error `ioctl[SIOCGIWSCAN]: Argument list too
-long` in the face of too many access points.
-
-If you have an Intel card, another alternative is
+older `wext` (Wireless-Extensions). If you do not have `nl80211` lying
+around, you may try `wext`, but `wext` can fail with the error
+`ioctl[SIOCGIWSCAN]: Argument list too long` in the face of too many
+access points. If you have an Intel card, another alternative is
 [`iwlwifi`](https://wireless.wiki.kernel.org/en/users/drivers/iwlwifi).
 
 One way to find the driver you need is using `lspci`:
