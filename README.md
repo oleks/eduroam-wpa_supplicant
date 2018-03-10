@@ -38,6 +38,8 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
+* University of Brighton, United Kingdom: MArch 2018
+  ([@DavidAveryUoB](https://github.com/DavidAveryUoB))
 * Aalto University, Finland: February 2018
   ([@Niketin](https://github.com/Niketin))
 * University of Cape Town, South Africa: February 2018
