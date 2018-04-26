@@ -38,7 +38,9 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
-* University of Brighton, United Kingdom: MArch 2018
+* University of Glasgow, Scotland: April 2018
+  ([@manaratz](https://github.com/manaratz))
+* University of Brighton, United Kingdom: March 2018
   ([@DavidAveryUoB](https://github.com/DavidAveryUoB))
 * Aalto University, Finland: February 2018
   ([@Niketin](https://github.com/Niketin))
