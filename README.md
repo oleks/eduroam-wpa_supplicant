@@ -38,6 +38,8 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
+* Grenoble INP, France: May 2018
+  ([Frédéric Pétrot](http://tima.imag.fr/sls/people/petrot/))
 * University of Glasgow, Scotland: April 2018
   ([@manaratz](https://github.com/manaratz))
 * University of Brighton, United Kingdom: March 2018
