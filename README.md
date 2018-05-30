@@ -39,6 +39,8 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
+* University of York, United Kingdom: May 2018
+  ([@bendudson](https://github.com/bendudson))
 * Grenoble INP, France: May 2018
   ([Frédéric Pétrot](http://tima.imag.fr/sls/people/petrot/))
 * University of Glasgow, Scotland: April 2018
