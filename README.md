@@ -45,6 +45,8 @@ me know if this configuration also works for you.
   ([Frédéric Pétrot](http://tima.imag.fr/sls/people/petrot/))
 * University of Glasgow, Scotland: April 2018
   ([@manaratz](https://github.com/manaratz))
+* Kaunas Technology Universty (KTU), Lithuania: March 2018
+  ([@Mark-Weston](https://github.com/Mark-Weston))
 * University of Brighton, United Kingdom: March 2018
   ([@DavidAveryUoB](https://github.com/DavidAveryUoB))
 * Aalto University, Finland: February 2018
