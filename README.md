@@ -38,7 +38,8 @@ well across a number of institutions. Lend a hand, and document it, or just let
 me know if this configuration also works for you.
 
 ## Last confirmed to work at
-
+* The Hong Kong Polytechnic University, Hong Kong: June 2018
+  ([@tobychui](https://github.com/tobychui))
 * University of York, United Kingdom: May 2018
   ([@bendudson](https://github.com/bendudson))
 * Grenoble INP, France: May 2018
