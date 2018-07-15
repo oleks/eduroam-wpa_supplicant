@@ -39,6 +39,8 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
+* Amsterdam University Library, Netherlands: July 2018
+  ([@oleks](https://github.com/oleks))
 * University of York, United Kingdom: May 2018
   ([@bendudson](https://github.com/bendudson))
 * Grenoble INP, France: May 2018
