@@ -93,6 +93,10 @@ me know if this configuration also works for you.
   ([@oleks](https://github.com/oleks))
 * ITU, Copenhagen, Denmark: May 2015
   ([@oleks](https://github.com/oleks))
+* University of Canterbury, Christchurch, New Zealand: July 2018
+  ([@huba](https://github.com/huba))
+* University of Waikato, Hamilton, New Zealand: July 2018
+  ([@huba](https://github.com/huba))
 
 ## Usage
 
