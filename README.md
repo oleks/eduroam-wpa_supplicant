@@ -39,6 +39,11 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
+
+* University of Canterbury, Christchurch, New Zealand: July 2018
+  ([@huba](https://github.com/huba))
+* University of Waikato, Hamilton, New Zealand: July 2018
+  ([@huba](https://github.com/huba))
 * Amsterdam University Library, Netherlands: July 2018
   ([@oleks](https://github.com/oleks))
 * The Hong Kong Polytechnic University, Hong Kong: June 2018
