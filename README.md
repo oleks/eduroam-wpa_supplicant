@@ -196,13 +196,12 @@ also have to add the following lines (courtesy of
 
 ```
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=root
-country=<ISO 3166-1 Alpha-2 Code (2-letter country code)>
+country=<2-letter country code>
 ```
 
-The `ctrl_interface` is needed because Raspbian Stretch uses `wpa_cli`
-by default. It is needed whenever you use `wpa_cli`.
-
-The `country` is needed ["for regulatory
-purposes"](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md).
-In particular, this alters the frequency bands that `wpa_supplicant`
-will probe.
+  * `ctrl_interface` is needed because Raspbian Stretch uses
+    `wpa_cli` by default. `ctrl_interface` is needed whenever you
+    use `wpa_cli`.
+  * `country` is needed ["for regulatory purposes"](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md).
+    In particular, this alters the frequency bands that `wpa_supplicant`
+    will use. The country code must be an [ISO 3166-1 Alpha-2 Code](https://en.wikipedia.org/wiki/ISO_3166-1).
