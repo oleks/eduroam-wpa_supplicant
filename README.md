@@ -48,6 +48,8 @@ me know if this configuration also works for you.
   ([@oleks](https://github.com/oleks))
 * The Hong Kong Polytechnic University, Hong Kong: June 2018
   ([@tobychui](https://github.com/tobychui))
+* TU Wien, Vienna, Austria: June 2018
+  ([@thrau](https://github.com/thrau))
 * University of York, United Kingdom: May 2018
   ([@bendudson](https://github.com/bendudson))
 * Grenoble INP, France: May 2018
