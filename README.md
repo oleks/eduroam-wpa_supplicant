@@ -184,3 +184,25 @@ background. Leaving it out, however, provides you with useful insights if you
 otherwise cannot connect.
 
 Additionally, start up `dhcpcd` if it doesn't start automatically.
+
+## Platform-specific configurations
+
+### Raspbian Stretch
+
+On [Raspbian
+Stretch](https://www.raspberrypi.org/blog/raspbian-stretch/) you would
+also have to add the following lines (courtesy of
+[@patrick-nits](https://github.com/patrick-nits):
+
+```
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=root
+country=<ISO 3166-1 Alpha-2 Code (2-letter country code)>
+```
+
+The `ctrl_interface` is needed because Raspbian Stretch uses `wpa_cli`
+by default. It is needed whenever you use `wpa_cli`.
+
+The `country` is needed ["for regulatory
+purposes"](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md).
+In particular, this alters the frequency bands that `wpa_supplicant`
+will probe.
