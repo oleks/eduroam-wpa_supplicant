@@ -192,7 +192,7 @@ Additionally, start up `dhcpcd` if it doesn't start automatically.
 On [Raspbian
 Stretch](https://www.raspberrypi.org/blog/raspbian-stretch/) you would
 also have to add the following lines (courtesy of
-[@patrick-nits](https://github.com/patrick-nits):
+[@patrick-nits](https://github.com/patrick-nits)):
 
 ```
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=root
