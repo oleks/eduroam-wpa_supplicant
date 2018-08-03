@@ -39,7 +39,8 @@ me know if this configuration also works for you.
 
 ## Last confirmed to work at
 
-
+* Federal University of Santa Catarina, Florianópolis, Brazil: August 2018
+  ([@gus9182](https://github.com/gus9182))
 * University of Canterbury, Christchurch, New Zealand: July 2018
   ([@huba](https://github.com/huba))
 * University of Waikato, Hamilton, New Zealand: July 2018
