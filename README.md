@@ -27,9 +27,9 @@ web-site](https://www.eduroam.org) seemingly (i.e., correct me if I'm wrong)
 offers no documentation on how to set up your `wpa_supplicant`. Instead, they
 offer installers to end-users, including a shell-script for Linux users (which
 could be regarded as primitive, but honest documentation). Some institutions do
-offer raw `wpa_supplicant` documentation, but do so in an ad-hoc fashion (i.e.,
-without any guarantee that the configuration will work at any other
-institution).
+offer raw `wpa_supplicant` documentation, but do so in an ad-hoc fashion —
+**without any guarantee that the configuration will work at any other
+institution, defeating the purpose of Eduroam**
 
 This is an attempt to establish a unified `wpa_supplicant` configuration, that
 works across the board. For now however, this is just an undocumented
