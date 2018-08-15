@@ -1,3 +1,34 @@
+#  Deprecation and take-down notice; change your password
+
+This repository is hereby **deprecated**, and will be taken down
+shortly after August 22, 2018
+[AOE](https://www.timeanddate.com/time/zones/aoe). That is, the
+provided configuration will become _unavailable_ in the interest of
+not spreading security malpractice further.
+
+The [eduroam Configuration Assistant Tool
+(CAT)](https://cat.eduroam.org/) does the task that this repository
+was meant to do, but better. For for Linux, they offer shellscript
+installers that will generate a wpa_supplicant configuration for you,
+if they fail to find Network Manager installed.
+
+CAT does a _better_ job because it also provisions you with a
+certificate which you can use to verify the RADIUS server of your home
+institution before talking to it. The configuration provided here did
+not do that, and this is bad practice—you may have exposed your
+password to unintended parties.
+
+Using CAT, rather than this configuration, also means that you should
+from now on keep an eye on when the configuration or certificate at
+your home institution is subject to change, and upgrade your
+configuration accordingly.
+
+It is recommended that you change your password if you used this
+configuration.
+
+See also [Issue
+#25](https://github.com/oleks/eduroam-wpa_supplicant/issues/25)
+
 # Sample wpa_supplicant configuration for eduroam
 
 TLDR; [This `wpa_supplicant` configuration](supplicant.conf) for
