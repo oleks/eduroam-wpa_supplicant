@@ -26,8 +26,10 @@ configuration accordingly.
 It is recommended that you change your password if you used this
 configuration.
 
-See also [Issue
-#25](https://github.com/oleks/eduroam-wpa_supplicant/issues/25)
+See also issues
+[#23](https://github.com/oleks/eduroam-wpa_supplicant/issues/23),
+[#24](https://github.com/oleks/eduroam-wpa_supplicant/issues/24), and
+[#25](https://github.com/oleks/eduroam-wpa_supplicant/issues/25).
 
 # Sample wpa_supplicant configuration for eduroam
 
